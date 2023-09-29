@@ -1,0 +1,17 @@
+.menu{
+	background-color: #bbbbbb;
+}
+.menu li {
+	font-size: 1.3em;
+	display: inline;
+	margin: 7px;
+	background-color:#bbbbbb;
+}
+.menu li :hover{
+	font-size: 1em;
+	background-color: #555599;
+	color: #ffffff
+}
+.menu li  a{
+text-decoration: none;
+}
